@@ -1,0 +1,1 @@
+SELECT * from trybe_hotel.users WHERE (email like '%dotmail.com');
