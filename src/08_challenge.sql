@@ -1,0 +1,1 @@
+ALTER Table users add COLUMN phone_number VARCHAR(11);
