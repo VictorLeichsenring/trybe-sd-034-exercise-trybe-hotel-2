@@ -1,0 +1,1 @@
+SELECT id, first_name, last_name FROM trybe_hotel.users WHERE (first_name in ('Terry', 'Demetrius') and age = 31)
